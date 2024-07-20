@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author: Thiru
+Author: Thiru(SRM AP)
